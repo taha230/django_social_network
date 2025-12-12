@@ -1,5 +1,7 @@
 DEBUG = True
 ALLOWED_HOSTS = []
+DEVEL = True
+
 
 DB_NAME = ''
 DB_HOST = ''
